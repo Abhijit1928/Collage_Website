@@ -8,6 +8,5 @@ else
 {
 echo"$n is odd number";
 }
-echo"Hello";
 ?>
  
