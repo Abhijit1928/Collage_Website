@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+*{
+      background-color: blanchedalmond;
+    }
+
+    #cp
+    {
+  color: #0468ff;
+  font-size: 40px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 450px;
+  width: 100%;
+  text-align: center;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.content{
+
+  position:relative;
+  top: 170px;
+}
